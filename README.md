@@ -112,4 +112,29 @@ stopwatch.mainloop()
 - Observe the current time display at the top of the window.
 
 #OUTPUT:
+A window with the title "Stopwatch/Clock" will appear, displaying:
+
+- A digital clock showing the current time in hours, minutes, and seconds.
+- A stopwatch display showing "00:00:00".
+- Three buttons: "Start", "Stop", and "Reset".
+
+When you click the "Start" button:
+
+- The stopwatch will begin counting up from "00:00:00".
+- The "Start" button will become disabled.
+- The "Stop" button will become enabled.
+
+When you click the "Stop" button:
+
+- The stopwatch will pause.
+- The "Stop" button will become disabled.
+- The "Start" button will become enabled.
+
+When you click the "Reset" button:
+
+- The stopwatch will reset to "00:00:00".
+- The "Start" button will become enabled.
+- The "Stop" button will become disabled.
+
+The digital clock will continue to update every second, showing the current time.
 
