@@ -110,8 +110,9 @@ stopwatch.mainloop()
 - Click the "Stop" button to pause the stopwatch.
 - Click the "Reset" button to reset the stopwatch to zero.
 - Observe the current time display at the top of the window.
+- 
 
-#OUTPUT:
+***#OUTPUT:
 A window with the title "Stopwatch/Clock" will appear, displaying:
 
 - A digital clock showing the current time in hours, minutes, and seconds.
