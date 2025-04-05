@@ -139,3 +139,5 @@ When you click the "Reset" button:
 
 The digital clock will continue to update every second, showing the current time.
 
+![Image](https://github.com/user-attachments/assets/cc10ed9a-2c80-4068-a376-fedec7236e3a)
+
